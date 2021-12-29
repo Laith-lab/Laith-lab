@@ -1,6 +1,6 @@
 # About me
 - My name is Lake, and my username is @ChubNub3.
-- I'm interested in programming, math, games, and I like listening to music
+- I'm interested in programming, math, cool things
 - I'm currently learning Java and SQL
 ---------------------------------------------
 
