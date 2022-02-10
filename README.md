@@ -1,10 +1,25 @@
-# About me
-- My name is Lake, and my username is @ChubNub3.
-- I'm interested in programming, math, cool things
-- I'm currently learning Java and SQL
----------------------------------------------
+# A little about me
 
-[<img src="https://img.shields.io/badge/LABEL-MESSAGE-COLOR.svg?logo=LOGO">](<www.google.com>)
+<img align="right" width="300" height="200" src="https://user-images.githubusercontent.com/96651798/153471229-c263f976-389e-4997-88d2-d0f3cc7854ea.png">
+
+
+```java
+public class hi {
+  public static void main(String[] args) {
+    System.out.println("Hello there!");
+  }
+}
+```
+
+- I'm a guy that loves to code, mess with hardware, and everything to do with computers
+- I love everything linux and FOSS
+- Currently using Arch Linux
+- Also using Vim
+- I code in java, python and C
+- I like to play DnD with my friends
+- Tobey Maguire >> any other spiderman
+
+
 
 <!---
 - 👋 Hi, I’m @ChubNub3
