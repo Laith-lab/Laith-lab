@@ -16,7 +16,6 @@ public class hi {
 - Currently using Arch Linux
 - Also using Vim
 - I code in java, python and C
-- I like to play DnD with my friends
 - Tobey Maguire >> any other spiderman
 
 
