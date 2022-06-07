@@ -4,18 +4,19 @@
 
 
 ```java
-public class Hi {
+public class README {
   public static void main(String[] args) {
-    System.out.println("Hello there!");
+    String name = "Lake";
+    System.out.println("Hello there! Welcome to " + name + "'s profile!");
   }
 }
 ```
 
 - I'm a guy that loves to code, mess with hardware, and everything to do with computers
-- I love everything linux and FOSS
-- Currently using Arch Linux
-- Also using Vim
-- I code in java, python, C and A LITTLE bit of Rust
+- I love everything Linux and FOSS
+- Currently dual booting Arch Linux and Windows
+- Proud Vim user
+- I code in java, python, C and Rust
 - Tobey Maguire >> any other spiderman
 --------------------------------------------
 # Things I use!
