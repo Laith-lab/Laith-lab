@@ -15,7 +15,7 @@ public class README {
 - I'm a guy that loves to code, mess with hardware, and everything to do with computers
 - I love everything Linux and FOSS
 - Currently dual booting Arch Linux and Windows
-- Proud Vim user
+- Vim user
 - I code in java, python, C and Rust
 - Tobey Maguire >> any other spiderman
 --------------------------------------------
