@@ -6,7 +6,7 @@
 ```java
 public class README {
   public static void main(String[] args) {
-    String name = "Lake";
+    String name = "Laith";
     System.out.println("Hello there! Welcome to " + name + "'s profile!");
   }
 }
