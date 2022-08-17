@@ -1,6 +1,6 @@
 # A little about me
 
-<img align="right" width="361.5" height="337.5" src="https://user-images.githubusercontent.com/96651798/153474427-8a0bff6d-d65b-4567-b93a-702a3d5ece6a.png">
+<img align="right" width="361.5" height="337.5" src="https://user-images.githubusercontent.com/96651798/185106849-5715de30-40c3-43b6-bf84-7109605e81b4.png">
 
 
 ```java
